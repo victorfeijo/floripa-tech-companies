@@ -9,7 +9,7 @@ Nome | Tecnologias | Localização
 ---- | ----------- | -----------
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
-[Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
+[Axado](https://axado.mercadolivre.com.br/) | `Python` | Centro, Florianópolis
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby` | Lagoa da Conceição
